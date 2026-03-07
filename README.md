@@ -18,6 +18,16 @@
 
 ---
 
+### 個人プロジェクト
+
+#### [Twin](https://github.com/negi1232/Twin)
+ビジュアルリグレッションテスト用のデスクトップアプリ（Electron製）。2つのWebページを左右に並べて同期操作し、スクリーンショット差分を自動検出できます。CSS比較やデバイスプリセット切替など、フロントエンド開発のQAを効率化するツールです。
+
+#### [PokaPoka - Planning Poker](https://pokapoka-frontend-production.pages.dev/)
+チームのスプリントプランニング向けプランニングポーカーアプリ。リアルタイムでメンバーがストーリーポイントを見積もり、結果を共有できるWebアプリです。
+
+---
+
 ### 技術スタック
 
 <div align="center">
