@@ -4,7 +4,7 @@
 
 ### ソフトウェアエンジニア
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Go+%26+TypeScript+%E3%81%A7%E9%96%8B%E7%99%BA%E4%B8%AD;%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%A9%E3%83%96%E3%83%AB%E3%81%AA%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E6%A7%8B%E7%AF%89;%E6%97%A5%E3%80%85%E6%96%B0%E3%81%97%E3%81%84%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E7%BF%92%E4%B8%AD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Go+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
 
 </div>
 
